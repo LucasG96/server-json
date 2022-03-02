@@ -1,0 +1,104 @@
+{
+  "pedidos": [
+    {
+      "idPedido": 13534544,
+      "dataPedido": "01/25/2021 10:33",
+      "dadosPagamento": {
+        "quantidadeParcelas": 10,
+        "valorParcelas": 400.0,
+        "formaPagamento": 1,
+        "numeroCartao": "45************4563"
+      },
+      "dadosEnvio": {
+        "destinatario": "Bruno ",
+        "endereco": {
+          "cep": "39.615-000",
+          "logradouro": "Rua Ferraz de oliveira",
+          "numero": "1500",
+          "complemento": "Apto 1",
+          "bairro": "Centro",
+          "cidade": "São Paulo",
+          "estado": "MG"
+        }
+      },
+      "itensPedido": [
+        {
+          "idItemPedido": 15232,
+          "tipoProduto": 1,
+          "nomeProduto": "Kit Personna Sport",
+          "beneficiario": {
+            "nome": "José da Silva"
+          },
+          "statusAtual": {
+            "idStatus": 2,
+            "dataAtualizacao": "01/28/2021 16:18"
+          },
+          "dadosPagamento": {
+            "quantidadeParcelas": 10,
+            "valorParcelas": 100.0,
+            "formaPagamento": 1,
+            "numeroCartao": "45************4563"
+          },
+          "resultado": null
+        },
+        {
+          "idItemPedido": 15233,
+          "tipoProduto": 2,
+          "nomeProduto": "Kit Personna Nutri",
+          "beneficiario": {
+            "nome": "Augusto Oliveira"
+          },
+          "statusAtual": {
+            "idStatus": 3,
+            "dataAtualizacao": "01/28/2021 17:45"
+          },
+          "dadosPagamento": {
+            "quantidadeParcelas": 10,
+            "valorParcelas": 100.0,
+            "formaPagamento": 1,
+            "numeroCartao": "45************4563"
+          },
+          "resultado": null
+        },
+        {
+          "idItemPedido": 15234,
+          "tipoProduto": 3,
+          "nomeProduto": "Kit Personna Fitness",
+          "beneficiario": {
+            "nome": "Augusto Ribeiro"
+          },
+          "statusAtual": {
+            "idStatus": 3,
+            "dataAtualizacao": "01/28/2021 17:45"
+          },
+          "dadosPagamento": {
+            "quantidadeParcelas": 10,
+            "valorParcelas": 100.0,
+            "formaPagamento": 1,
+            "numeroCartao": "45************4563"
+          },
+          "resultado": null
+        },
+        {
+          "idItemPedido": 15235,
+          "tipoProduto": 1,
+          "nomeProduto": "Kit Personna Sport",
+          "beneficiario": {
+            "nome": "Adilsu Souza"
+          },
+          "statusAtual": {
+            "idStatus": 3,
+            "dataAtualizacao": "01/28/2021 17:45"
+          },
+          "dadosPagamento": {
+            "quantidadeParcelas": 10,
+            "valorParcelas": 100.0,
+            "formaPagamento": 1,
+            "numeroCartao": "45************4563"
+          },
+          "resultado": null
+        }
+      ]
+    }
+  ]
+}
