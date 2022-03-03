@@ -10,15 +10,15 @@
         "numeroCartao": "45************4563"
       },
       "dadosEnvio": {
-        "destinatario": "Bruno ",
+        "destinatario": "Augusto Glória de Oliveira Peres",
         "endereco": {
-          "cep": "39.615-000",
-          "logradouro": "Rua Ferraz de oliveira",
-          "numero": "1500",
+          "cep": "33.658-952",
+          "logradouro": "Rua das Flores Azuis",
+          "numero": "1293",
           "complemento": "Apto 1",
           "bairro": "Centro",
           "cidade": "São Paulo",
-          "estado": "MG"
+          "estado": "SP"
         }
       },
       "itensPedido": [
@@ -46,7 +46,7 @@
           "tipoProduto": 2,
           "nomeProduto": "Kit Personna Nutri",
           "beneficiario": {
-            "nome": "Augusto Oliveira"
+            "nome": "Augusto Ribeiro"
           },
           "statusAtual": {
             "idStatus": 3,
@@ -84,7 +84,7 @@
           "tipoProduto": 1,
           "nomeProduto": "Kit Personna Sport",
           "beneficiario": {
-            "nome": "Adilsu Souza"
+            "nome": "Otávio Mesquita"
           },
           "statusAtual": {
             "idStatus": 3,
@@ -96,6 +96,604 @@
             "formaPagamento": 1,
             "numeroCartao": "45************4563"
           },
+          "resultado": null
+        }
+      ]
+    },
+    {
+      "idPedido": 13534545,
+      "dataPedido": "01/25/2021 10:33",
+      "dadosPagamento": {
+        "quantidadeParcelas": 5,
+        "valorParcelas": 600.0,
+        "formaPagamento": 1,
+        "numeroCartao": "45************4563"
+      },
+      "dadosEnvio": {
+        "destinatario": "Carlos Roberto Ribeiro",
+        "endereco": {
+          "cep": "33.658-952",
+          "logradouro": "Rua Aureliano Lessa",
+          "numero": "195",
+          "bairro": "Liberdade",
+          "cidade": "São Paulo",
+          "estado": "SP"
+        }
+      },
+      "itensPedido": [
+        {
+          "idItemPedido": 15236,
+          "tipoProduto": 2,
+          "nomeProduto": "Kit Personna Nutri",
+          "beneficiario": {
+            "nome": "Carlos Roberto Ribeiro"
+          },
+          "statusAtual": {
+            "idStatus": 4,
+            "dataAtualizacao": "02/01/2021 16:45"
+          },
+          "dadosPagamento": {
+            "quantidadeParcelas": 5,
+            "valorParcelas": 300.0,
+            "formaPagamento": 1,
+            "numeroCartao": "45************4563"
+          },
+          "resultado": null
+        },
+        {
+          "idItemPedido": 15237,
+          "tipoProduto": 3,
+          "nomeProduto": "Kit Personna Fitness",
+          "beneficiario": {
+            "nome": "Bernardo Oliveira Cruz"
+          },
+          "statusAtual": {
+            "idStatus": 5,
+            "dataAtualizacao": "02/04/2021 19:45"
+          },
+          "dadosPagamento": {
+            "quantidadeParcelas": 5,
+            "valorParcelas": 300.0,
+            "formaPagamento": 1,
+            "numeroCartao": "45************4563"
+          },
+          "resultado": null
+        }
+      ]
+    },
+    {
+      "idPedido": 13534546,
+      "dataPedido": "01/25/2021 10:33",
+      "dadosPagamento": {
+        "quantidadeParcelas": 1,
+        "valorParcelas": 1200.0,
+        "formaPagamento": 1,
+        "numeroCartao": "45************4563"
+      },
+      "dadosEnvio": {
+        "destinatario": "Adriana de Oliveira Marquez",
+        "endereco": {
+          "cep": "33.658-952",
+          "logradouro": "Rua Flor de Orquídea",
+          "numero": "111",
+          "bairro": "Santa Rosa",
+          "cidade": "São Paulo",
+          "estado": "SP"
+        }
+      },
+      "itensPedido": [
+        {
+          "idItemPedido": 15238,
+          "tipoProduto": 1,
+          "nomeProduto": "Kit Personna Sport",
+          "beneficiario": {
+            "nome": "Adriana de Oliveira Marquez"
+          },
+          "statusAtual": {
+            "idStatus": 6,
+            "dataAtualizacao": "02/08/2021 11:35"
+          },
+          "dadosPagamento": {
+            "quantidadeParcelas": 1,
+            "valorParcelas": 400.0,
+            "formaPagamento": 1,
+            "numeroCartao": "45************4563"
+          },
+          "resultado": null
+        },
+        {
+          "idItemPedido": 15239,
+          "tipoProduto": 2,
+          "nomeProduto": "Kit Personna Nutri",
+          "beneficiario": {
+            "nome": "Lucídio Antonio"
+          },
+          "statusAtual": {
+            "idStatus": 7,
+            "dataAtualizacao": "02/10/2021 19:45"
+          },
+          "dadosPagamento": {
+            "quantidadeParcelas": 1,
+            "valorParcelas": 400.0,
+            "formaPagamento": 1,
+            "numeroCartao": "45************4563"
+          },
+          "resultado": "https://www.cesgranrio.org.br/pdf/bb0121/bb0121_tac_ac.pdf"
+        },
+        {
+          "idItemPedido": 15240,
+          "tipoProduto": 3,
+          "nomeProduto": "Kit Personna Fitness",
+          "beneficiario": {
+            "nome": "Natália da Silva e Bourbon"
+          },
+          "statusAtual": {
+            "idStatus": 8,
+            "dataAtualizacao": "02/01/2021 20:25"
+          },
+          "dadosPagamento": {
+            "quantidadeParcelas": 1,
+            "valorParcelas": 400.0,
+            "formaPagamento": 1,
+            "numeroCartao": "45************4563"
+          },
+          "resultado": null
+        }
+      ]
+    },
+    {
+      "idPedido": 13534549,
+      "dataPedido": "01/25/2021 10:33",
+      "dadosPagamento": {
+        "quantidadeParcelas": 5,
+        "valorParcelas": 600.0,
+        "formaPagamento": 1,
+        "numeroCartao": "45************4563"
+      },
+      "dadosEnvio": {
+        "destinatario": "Jorge da Silva",
+        "endereco": {
+          "cep": "33.658-952",
+          "logradouro": "Rua Aureliano Lessa",
+          "numero": "195",
+          "bairro": "Liberdade",
+          "cidade": "São Paulo",
+          "estado": "SP"
+        }
+      },
+      "itensPedido": [
+        {
+          "idItemPedido": 15241,
+          "tipoProduto": 2,
+          "nomeProduto": "Kit Personna Nutri",
+          "beneficiario": {
+            "nome": "Jorge da Silva"
+          },
+          "statusAtual": {
+            "idStatus": 4,
+            "dataAtualizacao": "02/01/2021 16:45"
+          },
+          "dadosPagamento": {
+            "quantidadeParcelas": 5,
+            "valorParcelas": 300.0,
+            "formaPagamento": 1,
+            "numeroCartao": "45************4563"
+          },
+          "resultado": null
+        },
+        {
+          "idItemPedido": 15242,
+          "tipoProduto": 3,
+          "nomeProduto": "Kit Personna Fitness",
+          "beneficiario": {
+            "nome": "Luciano Cassio"
+          },
+          "statusAtual": {
+            "idStatus": 8,
+            "dataAtualizacao": "02/04/2021 19:45"
+          },
+          "dadosPagamento": {
+            "quantidadeParcelas": 5,
+            "valorParcelas": 300.0,
+            "formaPagamento": 1,
+            "numeroCartao": "45************4563"
+          },
+          "resultado": null
+        }
+      ]
+    }
+  ],
+  "detalhesPedidos": [
+    {
+      "idPedido": 13534544,
+      "dataPedido": "01/25/2021 10:33",
+      "dadosEnvio": {
+        "destinatario": "Augusto Glória de Oliveira Peres",
+        "endereco": {
+          "cep": "33.658-952",
+          "logradouro": "Rua das Flores Azuis",
+          "numero": "1293",
+          "complemento": "Apto 1",
+          "bairro": "Centro",
+          "cidade": "São Paulo",
+          "estado": "SP"
+        }
+      },
+      "itensPedido": [
+        {
+          "idItemPedido": 15232,
+          "tipoProduto": 1,
+          "nomeProduto": "Kit Personna Sport",
+          "beneficiario": {
+            "nome": "José da Silva"
+          },
+          "status": [
+            {
+              "idStatus": 1,
+              "dataAtualizacao": "01/26/2021 10:33"
+            },
+            {
+              "idStatus": 2,
+              "dataAtualizacao": "01/28/2021 16:18"
+            }
+          ],
+          "resultado": null
+        },
+        {
+          "idItemPedido": 15233,
+          "tipoProduto": 2,
+          "nomeProduto": "Kit Personna Nutri",
+          "beneficiario": {
+            "nome": "Augusto Glória Ribeiro"
+          },
+          "status": [
+            {
+              "idStatus": 1,
+              "dataAtualizacao": "01/26/2021 10:33"
+            },
+            {
+              "idStatus": 2,
+              "dataAtualizacao": "01/27/2021 16:18"
+            },
+            {
+              "idStatus": 3,
+              "dataAtualizacao": "01/28/2021 17:45",
+              "dadosRastreio": {
+                "codigoRastreio": "DB935H2132HS",
+                "dataPrevisaoEntrega": "01/31/2021 10:25"
+              }
+            }
+          ],
+          "resultado": null
+        },
+        {
+          "idItemPedido": 15234,
+          "tipoProduto": 3,
+          "nomeProduto": "Kit Personna Fitness",
+          "beneficiario": {
+            "nome": "Augusto Glória Ribeiro"
+          },
+          "status": [
+            {
+              "idStatus": 1,
+              "dataAtualizacao": "01/26/2021 10:33"
+            },
+            {
+              "idStatus": 2,
+              "dataAtualizacao": "01/27/2021 16:18"
+            },
+            {
+              "idStatus": 3,
+              "dataAtualizacao": "01/28/2021 17:45",
+              "dadosRastreio": {
+                "codigoRastreio": "DB935H2452JD",
+                "dataPrevisaoEntrega": "01/31/2021 10:25"
+              }
+            }
+          ],
+          "resultado": null
+        },
+        {
+          "idItemPedido": 15235,
+          "tipoProduto": 1,
+          "nomeProduto": "Kit Personna Sport",
+          "beneficiario": {
+            "nome": "Vinícius Silva Peres"
+          },
+          "status": [
+            {
+              "idStatus": 1,
+              "dataAtualizacao": "01/26/2021 10:33"
+            },
+            {
+              "idStatus": 2,
+              "dataAtualizacao": "01/27/2021 16:18"
+            },
+            {
+              "idStatus": 3,
+              "dataAtualizacao": "01/28/2021 17:45",
+              "dadosRastreio": {
+                "codigoRastreio": "DB935H4657FG",
+                "dataPrevisaoEntrega": "01/31/2021 10:25"
+              }
+            }
+          ],
+          "resultado": null
+        }
+      ]
+    },
+    {
+      "idPedido": 13534545,
+      "dataPedido": "01/25/2021 10:33",
+      "dadosEnvio": {
+        "destinatario": "Marco Aureliano Silva",
+        "endereco": {
+          "cep": "33.054-231",
+          "logradouro": "Rua Ferraz de Oliveira",
+          "numero": "195",
+          "bairro": "Centro",
+          "cidade": "São Paulo",
+          "estado": "AP"
+        }
+      },
+      "itensPedido": [
+        {
+          "idItemPedido": 15236,
+          "tipoProduto": 2,
+          "nomeProduto": "Kit Personna Nutri",
+          "beneficiario": {
+            "nome": "Marco Aureliano Silva"
+          },
+          "status": [
+            {
+              "idStatus": 1,
+              "dataAtualizacao": "01/26/2021 10:33"
+            },
+            {
+              "idStatus": 2,
+              "dataAtualizacao": "01/27/2021 16:18"
+            },
+            {
+              "idStatus": 3,
+              "dataAtualizacao": "01/28/2021 17:45",
+              "dadosRastreio": {
+                "codigoRastreio": "DB935H2398JE",
+                "dataPrevisaoEntrega": "01/31/2021 10:25"
+              }
+            },
+            {
+              "idStatus": 4,
+              "dataAtualizacao": "02/01/2021 16:45",
+              "dadosPreAgendamento": {
+                "data": "02/03/2021",
+                "turno": 2
+              }
+            }
+          ],
+          "resultado": null
+        },
+        {
+          "idItemPedido": 15237,
+          "tipoProduto": 3,
+          "nomeProduto": "Kit Personna Fitness",
+          "beneficiario": {
+            "nome": "Bernardo Magalhães Silva e Bourbon"
+          },
+          "status": [
+            {
+              "idStatus": 1,
+              "dataAtualizacao": "01/26/2021 10:33"
+            },
+            {
+              "idStatus": 2,
+              "dataAtualizacao": "01/27/2021 16:18"
+            },
+            {
+              "idStatus": 3,
+              "dataAtualizacao": "01/28/2021 17:45",
+              "dadosRastreio": {
+                "codigoRastreio": "DB935H5478RT",
+                "dataPrevisaoEntrega": "01/31/2021 10:25"
+              }
+            },
+            {
+              "idStatus": 4,
+              "dataAtualizacao": "02/01/2021 16:45",
+              "dadosPreAgendamento": {
+                "data": "02/03/2021",
+                "turno": 2
+              }
+            },
+            {
+              "idStatus": 5,
+              "dataAtualizacao": "02/04/2021 19:45",
+              "dataAgendamento": "02/08/2021 10:00"
+            }
+          ],
+          "resultado": null
+        }
+      ]
+    },
+    {
+      "idPedido": 13534546,
+      "dataPedido": "01/25/2021 10:33",
+      "dadosEnvio": {
+        "destinatario": "Adrianna da Cunha Fonseca Marquez",
+        "endereco": {
+          "cep": "31.125-052",
+          "logradouro": "Rua Flor de Liz",
+          "numero": "85",
+          "bairro": "São Benedito",
+          "cidade": "Fortaleza",
+          "estado": "CE"
+        }
+      },
+      "itensPedido": [
+        {
+          "idItemPedido": 15238,
+          "tipoProduto": 1,
+          "nomeProduto": "Kit Personna Sport",
+          "beneficiario": {
+            "nome": "Adrianna da Cunha Fonseca Marquez"
+          },
+          "status": [
+            {
+              "idStatus": 1,
+              "dataAtualizacao": "01/26/2021 10:33"
+            },
+            {
+              "idStatus": 2,
+              "dataAtualizacao": "01/27/2021 16:18"
+            },
+            {
+              "idStatus": 3,
+              "dataAtualizacao": "01/28/2021 17:45",
+              "dadosRastreio": {
+                "codigoRastreio": "DB935H5478RT",
+                "dataPrevisaoEntrega": "01/31/2021 10:25"
+              }
+            },
+            {
+              "idStatus": 4,
+              "dataAtualizacao": "02/01/2021 16:45",
+              "dadosPreAgendamento": {
+                "data": "02/03/2021",
+                "turno": 2
+              }
+            },
+            {
+              "idStatus": 5,
+              "dataAtualizacao": "02/04/2021 19:45",
+              "dataAgendamento": "02/08/2021 10:00"
+            },
+            {
+              "idStatus": 6,
+              "dataAtualizacao": "02/08/2021 11:35",
+              "dataPrevisaoResultados": "02/09/2022 14:00"
+            }
+          ],
+          "resultado": null
+        },
+        {
+          "idItemPedido": 15239,
+          "tipoProduto": 2,
+          "nomeProduto": "Kit Personna Nutri",
+          "beneficiario": {
+            "nome": "Artride Silva Barreto de Oliveira"
+          },
+          "status": [
+            {
+              "idStatus": 5,
+              "dataAtualizacao": "02/04/2021 19:45",
+              "dataAgendamento": "02/08/2021 10:00"
+            },
+            {
+              "idStatus": 2,
+              "dataAtualizacao": "01/27/2021 16:18"
+            },
+            {
+              "idStatus": 4,
+              "dataAtualizacao": "02/01/2021 16:45",
+              "dadosPreAgendamento": {
+                "data": "02/03/2021",
+                "turno": 2
+              }
+            },
+            {
+              "idStatus": 1,
+              "dataAtualizacao": "01/26/2021 10:33"
+            },
+            {
+              "idStatus": 6,
+              "dataAtualizacao": "02/08/2021 11:35",
+              "dataPrevisaoResultados": "02/09/2022 14:00"
+            },
+            {
+              "idStatus": 7,
+              "dataAtualizacao": "02/10/2021 19:45"
+            },
+            {
+              "idStatus": 3,
+              "dataAtualizacao": "01/28/2021 17:45",
+              "dadosRastreio": {
+                "codigoRastreio": "DB935H5478RT",
+                "dataPrevisaoEntrega": "01/31/2021 10:25"
+              }
+            }
+          ],
+          "resultado": "https://www.cesgranrio.org.br/pdf/bb0121/bb0121_tac_ac.pdf"
+        },
+        {
+          "idItemPedido": 15240,
+          "tipoProduto": 3,
+          "nomeProduto": "Kit Personna Fitness",
+          "beneficiario": {
+            "nome": "Natália Souza da Silva"
+          },
+          "status": [
+            {
+              "idStatus": 1,
+              "dataAtualizacao": "01/26/2021 10:33"
+            },
+            {
+              "idStatus": 2,
+              "dataAtualizacao": "01/27/2021 16:18"
+            },
+            {
+              "idStatus": 8,
+              "dataAtualizacao": "02/01/2021 20:25"
+            },
+            {
+              "idStatus": 3,
+              "dataAtualizacao": "01/28/2021 17:45",
+              "dadosRastreio": {
+                "codigoRastreio": "DB935H5478RT",
+                "dataPrevisaoEntrega": "01/31/2021 10:25"
+              }
+            }
+          ],
+          "resultado": null
+        }
+      ]
+    },
+    {
+      "idPedido": 13534549,
+      "dataPedido": "01/25/2021 10:33",
+      "dadosEnvio": {
+        "destinatario": "Jorge da Silva Costa",
+        "endereco": {
+          "cep": "31.235-965",
+          "logradouro": "Rua Otávio Mesquita",
+          "numero": "1325",
+          "bairro": "Liberdade",
+          "cidade": "São Paulo",
+          "estado": "SP"
+        }
+      },
+      "itensPedido": [
+        {
+          "idItemPedido": 15241,
+          "tipoProduto": 2,
+          "nomeProduto": "Kit Personna Nutri",
+          "beneficiario": {
+            "nome": "Jorge da Silva Costa"
+          },
+          "status": [],
+          "resultado": null
+        },
+        {
+          "idItemPedido": 15242,
+          "tipoProduto": 3,
+          "nomeProduto": "Kit Personna Fitness",
+          "beneficiario": {
+            "nome": "Luciano Cassio"
+          },
+          "status": [
+            {
+              "idStatus": 8,
+              "dataAtualizacao": "01/26/2021 10:33"
+            }
+          ],
           "resultado": null
         }
       ]
